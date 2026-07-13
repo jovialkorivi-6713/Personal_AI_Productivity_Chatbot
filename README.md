@@ -55,7 +55,7 @@ The application follows a clean layered architecture where every component has a
 
 <div align="center">
 
-<img src="assets/architecture.png" alt="Project Architecture" width="95%"/>
+<img src="https://github.com/jovialkorivi-6713/Personal_AI_Productivity_Chatbot/blob/main/A3.png" alt="Project Architecture" width="95%"/>
 
 </div>
 
