@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/banner.png" alt="Personal AI Productivity & Automation Agent" width="100%"/>
+<img src="https://github.com/jovialkorivi-6713/Personal_AI_Productivity_Chatbot/blob/main/A5.png" alt="Personal AI Productivity & Automation Agent" width="100%"/>
 
 <br>
 
